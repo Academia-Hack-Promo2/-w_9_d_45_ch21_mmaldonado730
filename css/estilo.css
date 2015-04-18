@@ -1,0 +1,72 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #D8D8D8;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  border: 0;
+  padding: 15px;
+  background-color: #FFFFFF;
+  margin-bottom: 0;
+}
+1
+.logo{
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+hr{
+  width: 40%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eee;
+  color: #000;
+}
+
+#titulo{
+  text-align: center;
+  font-size: 25px;
+}
+.centrar_imagen{
+  margin-left: 100px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+}
+
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+  margin-right: 59px;
+  margin-left: 50px;
+}
+.centrar_n{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.top_step{
+  margin-top: 50px;
+}
+.text_step{
+  margin-left: 50px;
+}
+a{  
+  color: #000;
+}
+
+.step_botton{
+  margin-bottom: 25px;
+}
+
+#carousel-example-generic2 {
+  width: 400px;
+  height: 600px;
+  margin-left: 60px;
+}
